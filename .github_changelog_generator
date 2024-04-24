@@ -1,0 +1,3 @@
+project=vmpooler-provider-pve
+user=yachub
+exclude_labels=maintenance
